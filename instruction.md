@@ -1,14 +1,21 @@
 ## Git
+0. Configure git
+
+```
+git config --global user.email jalolimomaddinov97@gmail.com
+git config --global user.name jalol_imomaddinov
+```
 
 1. Check git (download from)
-2. initialize git repository 
+2. initialize git repository
+
 ```
 git init
 ```
 
 changes, commit
 
-`U` ->  yangi 
+`U` -> yangi
 
 `A` -> added (qoshilgan)
 
